@@ -17,7 +17,7 @@ import {
 } from "lucide-react";
 
 import profileImg from "./assets/ashish.jpg";
-import ChyGYM from "../Projects/ChyGYM.jsx";
+import ChyGYM from "./Projects/chyGYM.jsx";
 import ChoudharyMart from "./Projects/ChoudharyMart.jsx";
 
 export default function App() {
